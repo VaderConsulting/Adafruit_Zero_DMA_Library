@@ -2,6 +2,7 @@
 
 DMA helper/wrapped for ATSAMD21 such as Arduino Zero & Feather M0. Original author: Adafruit. This is Dave Robinson's working copy from the Arduino `libraries` tree. Version recorded in `library.properties`: 1.1.0. Upstream: <https://github.com/adafruit/Adafruit_ZeroDMA>.
 
+**Source last updated:** 2021-06-01  
 **Language:** C++ / Arduino  
 **Target:** Arduino (samd)  
 **Output:** Arduino library
