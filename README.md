@@ -21,6 +21,10 @@ DMA helper/wrapped for ATSAMD21 such as Arduino Zero & Feather M0. Original auth
 
 Install this folder as an Arduino library (Sketch → Include Library → Add .ZIP Library, or copy into `libraries/Adafruit_Zero_DMA_Library`). Open any `examples/*.ino` from the Arduino IDE.
 
+## Requirements
+
+- Arduino IDE
+
 ## Attribution and provenance
 
 - **Original author / maintainer:** Adafruit
